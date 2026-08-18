@@ -63,7 +63,10 @@ Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folge
 [Immich](https://immich.app/) ist einfach Google Photos nur selber gehostet und damit privat und nicht KI Futter :)
 Ne ehrlich, ist einfach gut zu Wissen man hat seinen Stuff bei sich selber. Das braucht auch einmal ne Account Einrichtung und dann könnt ihr das benutzen, einfach sagen wenn ihr das benutzen wollt. 
 
+http://192.168.0.182:30041/
 
 
 ## Audiobookshelf
 [Audiobookshelf](https://audiobookshelf.org/) hab ich erst neulich eingerichtet, da sind bisher nur die ersten 4 Harry Potter teile drauf. Aber denke da werden noch einige Hörbücher und eBooks kommen und falls ihr da schon was habt gerne her damit :)
+
+http://192.168.0.182:30067/
