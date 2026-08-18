@@ -1,4 +1,7 @@
 ## Intro
+
+![Netzwerk Struktur](Netzwerk Struktur.png)
+
 Zunächst eine Erklärung was das Gesamtkonzept ist. Der Server kann entweder etwas was auf ihm gespeichert ist zur Verfügung stellen, oder vice versa Speicherplatz zur Verfügung stellen damit ihr keine großen Datenmengen bei euch lagern müsst. Außerdem kann er euch seine Rechenleistung zur Verfügung stellen, z.B. für Minecraft Server oder am Ende sogar lokale KI, aber dafür hab ich noch keine Grafikkarte und die Modelle sind momentan noch zu groß und brauchen ultra High-End Computer um mit Gemini oder ChatGPT oder so halbwegs konkurrieren zu können.
 
 Aber egal was auf dem Server läuft, ist in Containern, die man über eine Internetadresse besuchen kann. Meine Blu-Ray Sammlung beispielsweise läuft mit dem Bibliotheksverwaltungsprogramm Jellyfin unter der Adresse 192.168.0.182:8095. 
