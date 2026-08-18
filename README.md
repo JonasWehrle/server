@@ -21,7 +21,10 @@ An sich klappt das mit jedem Gerät, gerade bei mobilen Geräten macht das auch 
 
 Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
 
-## Table of Contents
+## Services
+
+Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
+
 * [Jellyfin Filme](#jellyfin-filme)
 * [Jellyfin Musik](#jellyfin-musik)
 * [Obsidian](#obsidian)
