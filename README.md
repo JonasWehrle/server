@@ -34,8 +34,6 @@ Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
 
 Damit der Server euch die beste Video- und Audioqualität zur Verfügung stellen kann, muss er genau wissen, was euer Gerät Decodieren kann, damit er Korrekt Encodiert. Anstatt Jellyfin einfach im Browser zu benutzen, was natürlich geht, würde ich euch aber die extra App dazu ans Herz legen. Da die meisten Browser sich keine Mühe geben gute Audiocodecs zu unterstützen, muss der Server euch das runterrechnen, was unnötig Leistung und Strom zieht. Am besten ladet ihr euch für Laptop/Desktop die "Jellyfin Media Player" Anwendung und für Handy/iPad die "Jellyfin" App runter. Dann können Server und Endgerät das optimale Format finden und in den meisten Filmen muss der Server dann nämlich gar nichts umrechnen.
 
-Jellyfin Media Player: https://github.com/jellyfin/jellyfin-desktop
-
 [Jellyfin Media Player](https://github.com/jellyfin/jellyfin-desktop)
 
 [Jellyfin Android](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
@@ -56,7 +54,8 @@ Das Passwort könnt ihr jederzeit ändern. Viel Spaß beim schauen!!✨✨
 
 ## Jellyfin Musik
 
-Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folgen. Unterwegs Musik hören mache ich persönlich mit Symfonium
+Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folgen. Unterwegs Musik hören mache ich persönlich mit Symfonium ([Android](https://play.google.com/store/apps/details?id=app.symfonik.music.player&referrer=utm_source%3Dwebsite%26utm_medium%3Dcta%26utm_campaign%3Dsite_home%26utm_content%3Dhero_primary)), was es leider nur für Android gibt. Es gibt aber eine Million Alternativen. Ihr könnt hier nur Musik abspielen, die ich bereits auf dem Server habe. Aber natürlich könnt ihr sie auch lokal zu euch rüberziehen und wenn ihr großes Interesse hättet Spotify und so actually nicht mehr zu benutzen, könnte man auch paar Sachen einrichten, dass ihr selber Musik hinzufügen könntet, aber bisher hat es mich nicht gestört mal auf der Musik die bisher da ist auszuruhen. Momentan ist das natürlich auch nur meine eigene Musik, eure Bibliotheken einzurichten ist aber möglich und euer Spotify rüberzukopieren in Theorie auch. Könnet mir einfach mal schreiben falls Interesse besteht.
+
 
 ## Obsidian
 
