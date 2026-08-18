@@ -19,6 +19,10 @@ Tailscale könnt ihr hier herunterladen: https://tailscale.com/download
 
 An sich klappt das mit jedem Gerät, gerade bei mobilen Geräten macht das auch zum Filme, Musik oder Hörbücher hören für unterwegs sehr viel Sinn. Eure Internetgeschwindigkeit wird null beeinträchtigt und ihr seid dazu noch etwas privater Unterwegs weil random IP Adresse in einem Subnetz von Tailscale.
 
+## Troubleshooting
+
+Es kann gut sein, dass euer Router zuhause auch genau 192.168.0 als Präfix vergibt (z.B. wenn ihr auch Vodafone habt), dann müsst ihr stattdessen die IP-Adresse vom Router in unserem Tailscale VPN benutzen. Diese lautet 100.70.111.47.
+
 ## Services
 
 Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
