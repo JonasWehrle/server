@@ -29,7 +29,7 @@ Obsidian Self Hosting
 Immich
 Audiobookshelf
 
-##Jellyfin Filme
+## Jellyfin Filme
 
-##Jellyfin Musik
+## Jellyfin Musik
 
