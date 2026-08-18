@@ -17,7 +17,9 @@ Da mein Heimnetz aber abgeschlossen ist und keine externen Zugriffe zulässt, m�
 
 Tailscale könnt ihr hier herunterladen: https://tailscale.com/download
 
-An sich klappt das mit jedem Gerät, gerade bei mobilen Geräten macht das auch zum Filme, Musik oder Hörbücher hören für unterwegs sehr viel Sinn. Eure Internetgeschwindigkeit wird null beeinträchtigt und ihr seid dazu noch etwas privater Unterwegs weil random IP Adresse in einem Subnetz von Tailscale.
+Nach dem Download einmal anmelden und dem Subnet beitreten, dem euer Account dann schon angehören sollte. Falls ihr da Probleme habt gerne melden.
+
+Gerade bei mobilen Geräten ist Tailscale zum Filme schauen und Musik oder Hörbücher hören für unterwegs sehr praktisch. Eure Internetgeschwindigkeit wird null beeinträchtigt und ihr seid dazu noch etwas privater Unterwegs weil random IP Adresse in einem Subnetz von Tailscale.
 
 ## Troubleshooting
 
@@ -35,7 +37,7 @@ Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
 
 ## Jellyfin Filme
 
-Damit der Server euch die beste Video- und Audioqualität zur Verfügung stellen kann, muss er genau wissen, was euer Gerät Decodieren kann, damit er Korrekt Encodiert. Anstatt Jellyfin einfach im Browser zu benutzen, was natürlich geht, würde ich euch aber die extra App dazu ans Herz legen. Da die meisten Browser sich keine Mühe geben gute Audiocodecs zu unterstützen, muss der Server euch das runterrechnen, was unnötig Leistung und Strom zieht. Am besten ladet ihr euch für Laptop/Desktop die "Jellyfin Media Player" Anwendung und für Handy/iPad die "Jellyfin" App runter. Dann können Server und Endgerät das optimale Format finden und in den meisten Filmen muss der Server dann nämlich gar nichts umrechnen.
+Damit der Server euch die beste Video- und Audioqualität zur Verfügung stellen kann, muss er genau wissen, was euer Gerät Decodieren kann, damit er Korrekt Encodiert. Anstatt Jellyfin einfach im Browser zu benutzen, was natürlich geht, würde ich euch deshalb die extra App dazu ans Herz legen. Da die meisten Browser sich keine Mühe geben gute Audiocodecs zu unterstützen, muss der Server euch das runterrechnen, was unnötig Leistung und Strom zieht. Am besten ladet ihr euch für Laptop/Desktop die "Jellyfin Media Player" Anwendung und für Handy/iPad die "Jellyfin" App runter. Dann können Server und Endgerät das optimale gemeinsame Format finden und in den meisten Filmen muss der Server dann nämlich gar nichts umrechnen.
 
 [Jellyfin Media Player](https://github.com/jellyfin/jellyfin-desktop)
 
@@ -57,7 +59,7 @@ Das Passwort könnt ihr jederzeit ändern. Viel Spaß beim schauen!!✨✨
 
 ## Jellyfin Musik
 
-Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folgen. Ablauf und Accounts sind auch hier der selbe. Zum aufm Handy Musik hören benutze ich persönlich aber [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player&referrer=utm_source%3Dwebsite%26utm_medium%3Dcta%26utm_campaign%3Dsite_home%26utm_content%3Dhero_primary), was es leider nur für Android gibt. Es gibt aber eine Million Alternativen. Ihr könnt hier nur Musik abspielen, die ich bereits auf dem Server habe. Aber natürlich könnt ihr sie auch aufs Handy runterladen für Offline use. Ist alles FLAC, also sehr hohe Qualität, dementsprechend glaub so 20GB ca momentan. Falls ihr großes Interesse hättet Spotify und so actually nicht mehr zu benutzen, könnte man auch paar Sachen einrichten, dass ihr selber Musik hinzufügen könnt, aber bisher hat es mich nicht gestört mal auf der Musik die bisher da ist auszuruhen. Momentan ist das natürlich auch nur meine eigene Musik, eure Bibliotheken einzurichten ist aber möglich und euer Spotify rüberzukopieren in Theorie auch. Könnt mir einfach mal sagen falls ihr Interesse habt.
+Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folgen. Ablauf und Accounts sind identisch. Zum aufm Handy Musik hören benutze ich persönlich aber [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player&referrer=utm_source%3Dwebsite%26utm_medium%3Dcta%26utm_campaign%3Dsite_home%26utm_content%3Dhero_primary), was es leider nur für Android gibt. Es gibt aber eine Million Alternativen. Ihr könnt hier nur Musik abspielen, die ich bereits auf dem Server habe. Aber natürlich könnt ihr sie auch aufs Handy runterladen für Offline use. Ist alles FLAC, also sehr hohe Qualität, dementsprechend glaub so 20GB ca momentan. Falls ihr großes Interesse hättet Spotify und so actually nicht mehr zu benutzen, könnte man auch paar Sachen einrichten, dass ihr selber Musik hinzufügen könnt, aber bisher hat es mich nicht gestört mal auf der Musik die bisher da ist auszuruhen. Momentan ist das natürlich auch nur meine eigene Musik, eure Bibliotheken einzurichten ist aber möglich und euer Spotify rüberzukopieren in Theorie auch. Könnt mir einfach mal sagen falls ihr Interesse habt.
 
 
 ## Obsidian
