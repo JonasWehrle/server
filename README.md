@@ -77,6 +77,6 @@ Port: http://192.168.0.182:30041/
 
 [Android](https://play.google.com/store/apps/details?id=com.audiobookshelf.app&hl=en-US)
 
-Auf iOS scheint es als Alternative [FableFrog](https://fablefrog.app/) zu geben.
+Auf iOS scheint es als Alternative [FableFrog](https://apps.apple.com/us/app/fable-frog/id6760953386) zu geben.
 
 Port: http://192.168.0.182:30067/
