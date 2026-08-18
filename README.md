@@ -24,12 +24,17 @@ Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
 ## Table of Contents
 * [Jellyfin Filme](#jellyfin-filme)
 * [Jellyfin Musik](#jellyfin-musik)
-Jellyfin Musik
-Obsidian Self Hosting
-Immich
-Audiobookshelf
+* [Obsidian](#obsidian)
+* [Audiobookshelf](#audiobookshelf)
+* [Immich](#immich)
+
 
 ## Jellyfin Filme
 
 ## Jellyfin Musik
 
+## Obsidian
+
+## Audiobookshelf
+
+## Immich
