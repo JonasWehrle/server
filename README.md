@@ -32,7 +32,7 @@ Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
 
 ## Jellyfin Filme
 
-Damit der Server euch die beste Video- und Audioqualität zur Verfügung stellen kann, muss er genau wissen, was euer Gerät Decodieren kann, damit er Korrekt Encodiert. Da die meisten Browser sich keine Mühe geben gute Audiocodecs zu unterstützen, muss der Server euch das runterrechnen, was unnötig Leistung und Strom zieht. Am besten ladet ihr euch für Laptop/Desktop die "Jellyfin Media Player" Anwendung und für Handy/iPad die Jellyfin App runter. Dann können Server und Endgerät das optimale Format finden und in den meisten Filmen muss der Server dann nämlich gar nichts umrechnen.
+Damit der Server euch die beste Video- und Audioqualität zur Verfügung stellen kann, muss er genau wissen, was euer Gerät Decodieren kann, damit er Korrekt Encodiert. Anstatt Jellyfin einfach im Browser zu benutzen, was natürlich geht, würde ich euch aber die extra App dazu ans Herz legen. Da die meisten Browser sich keine Mühe geben gute Audiocodecs zu unterstützen, muss der Server euch das runterrechnen, was unnötig Leistung und Strom zieht. Am besten ladet ihr euch für Laptop/Desktop die "Jellyfin Media Player" Anwendung und für Handy/iPad die "Jellyfin" App runter. Dann können Server und Endgerät das optimale Format finden und in den meisten Filmen muss der Server dann nämlich gar nichts umrechnen.
 
 Jellyfin Media Player: https://github.com/jellyfin/jellyfin-desktop
 
@@ -54,7 +54,7 @@ Das Passwort könnt ihr jederzeit ändern. Viel Spaß beim schauen!!✨✨
 
 ## Jellyfin Musik
 
-
+Hier könnt ihr eigentlich der Anleitung * [Jellyfin Filme](#jellyfin-filme) folgen. Unterwegs Musik 
 
 ## Obsidian
 
