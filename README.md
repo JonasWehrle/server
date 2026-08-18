@@ -22,8 +22,8 @@ An sich klappt das mit jedem Gerät, gerade bei mobilen Geräten macht das auch 
 Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
 
 ## Table of Contents
-* [Jump to Jellyfin Filme](#jellyfin-filme)
-* [Jump to Jellyfin Musik](#jellyfin-musik)
+* [Jellyfin Filme](#jellyfin-filme)
+* [Jellyfin Musik](#jellyfin-musik)
 Jellyfin Musik
 Obsidian Self Hosting
 Immich
