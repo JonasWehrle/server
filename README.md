@@ -47,6 +47,7 @@ Tja und sobald ihr die richtige Anwendung habt werdet ihr nach der Serveradresse
 Danach werdet ihr nach Usernamen und Passwörtern gebeten. Ich hab für euch alle einen Account mit folgenden Credentials eingerichtet:
 
 Username: Euer vorname (alles klein)
+
 Passwort: abcdefgh
 
 Das Passwort könnt ihr jederzeit ändern. Viel Spaß beim schauen!!✨✨
