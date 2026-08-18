@@ -19,8 +19,6 @@ Tailscale könnt ihr hier herunterladen: https://tailscale.com/download
 
 An sich klappt das mit jedem Gerät, gerade bei mobilen Geräten macht das auch zum Filme, Musik oder Hörbücher hören für unterwegs sehr viel Sinn. Eure Internetgeschwindigkeit wird null beeinträchtigt und ihr seid dazu noch etwas privater Unterwegs weil random IP Adresse in einem Subnetz von Tailscale.
 
-Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
-
 ## Services
 
 Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
@@ -34,7 +32,28 @@ Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
 
 ## Jellyfin Filme
 
+Damit der Server euch die beste Video- und Audioqualität zur Verfügung stellen kann, muss er genau wissen, was euer Gerät Decodieren kann, damit er Korrekt Encodiert. Da die meisten Browser sich keine Mühe geben gute Audiocodecs zu unterstützen, muss der Server euch das runterrechnen, was unnötig Leistung und Strom zieht. Am besten ladet ihr euch für Laptop/Desktop die "Jellyfin Media Player" Anwendung und für Handy/iPad die Jellyfin App runter. Dann können Server und Endgerät das optimale Format finden und in den meisten Filmen muss der Server dann nämlich gar nichts umrechnen.
+
+Jellyfin Media Player: https://github.com/jellyfin/jellyfin-desktop
+
+Jellyfin Android: https://play.google.com/store/apps/details?id=org.jellyfin.mobile
+
+Jellyfin iOS: https://apps.apple.com/us/app/jellyfin-mobile/id1480192618
+
+Tja und sobald ihr die richtige Anwendung habt werdet ihr nach der Serveradresse gefragt. Denkt dran, dass ihr Tailscale im Hintergrund laufen lassen müsst, damit der Server gesehen wird. Die Adresse ist 
+
+192.168.0.182:8095
+
+Danach werdet ihr nach Usernamen und Passwörtern gebeten. Ich hab für euch alle einen Account mit folgenden Credentials eingerichtet:
+
+Username: Euer vorname (alles klein)
+Passwort: abcdefgh
+
+Das Passwort könnt ihr jederzeit ändern. Viel Spaß beim schauen!!✨✨
+
 ## Jellyfin Musik
+
+
 
 ## Obsidian
 
