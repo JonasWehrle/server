@@ -26,9 +26,8 @@ Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
 * [Jellyfin Filme](#jellyfin-filme)
 * [Jellyfin Musik](#jellyfin-musik)
 * [Obsidian](#obsidian)
-* [Audiobookshelf](#audiobookshelf)
 * [Immich](#immich)
-
+* [Audiobookshelf](#audiobookshelf)
 
 ## Jellyfin Filme
 
@@ -60,7 +59,11 @@ Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folge
 ## Obsidian
 Absolut tolles Notizen-Programm, was für mich momentan OneNote ersetzt. Damit man das auch schön über alle Geräte synchronisiert benötigt ihr das Plug-In "Self-hosted LiveSync". Das braucht etwas mehr Account setup als Jellyfin, weshalb ich das nicht für euch alle einfach mal so vorbereitet habe, aber dauert wirklich nur 5min und falls das jemand von euch gerne benutzen mag auch hier einfach sagen.
 
-## Audiobookshelf
-Das hab ich erst neulich eingerichtet 
-
 ## Immich
+Das ist einfach Google Photos nur selber gehostet und damit privat und nicht KI Futter :)
+Ne ehrlich, ist einfach gut zu Wissen man hat seinen Stuff bei sich selber. Das braucht auch einmal ne Account Einrichtung und dann könnt ihr das benutzen, einfach sagen wenn ihr das benutzen wollt. 
+
+
+
+## Audiobookshelf
+Das hab ich erst neulich eingerichtet, weil
