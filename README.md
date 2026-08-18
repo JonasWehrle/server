@@ -66,4 +66,4 @@ Ne ehrlich, ist einfach gut zu Wissen man hat seinen Stuff bei sich selber. Das 
 
 
 ## Audiobookshelf
-[Audiobookshelf](https://audiobookshelf.org/) hab ich erst neulich eingerichtet, da sind bisher nur die ersten 4 Harry Potter teile drauf. Aber denke da werden noch einige Hörbücher und eBooks kommen und falls ihr da schon was habt gerne her damit :D
+[Audiobookshelf](https://audiobookshelf.org/) hab ich erst neulich eingerichtet, da sind bisher nur die ersten 4 Harry Potter teile drauf. Aber denke da werden noch einige Hörbücher und eBooks kommen und falls ihr da schon was habt gerne her damit :)
