@@ -57,7 +57,7 @@ Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folge
 
 
 ## Obsidian
-[Obsidian](https://obsidian.md/) ist ein absolut tolles Notizen-Programm, was für mich momentan OneNote ersetzt. Hab damit z.B. das Netzwerk Schema am Anfang der guides gemacht. Damit man das auch schön über alle Geräte synchronisiert benötigt ihr das Plug-In "Self-hosted LiveSync". Das braucht etwas mehr Account setup als Jellyfin, weshalb ich das nicht für euch alle einfach mal so vorbereitet habe, aber dauert wirklich nur 5min und falls das jemand von euch gerne benutzen mag auch hier einfach sagen.
+[Obsidian](https://obsidian.md/) ist ein absolut tolles Notizen-Programm, was für mich momentan OneNote ersetzt. Hab damit z.B. das Netzwerk Schema im [Intro](#intro) gemacht. Damit man das auch schön über alle Geräte synchronisiert benötigt ihr das Plug-In "Self-hosted LiveSync". Das braucht etwas mehr Account setup als Jellyfin, weshalb ich das nicht für euch alle einfach mal so vorbereitet habe, aber dauert wirklich nur 5min und falls das jemand von euch gerne benutzen mag auch hier einfach sagen.
 
 ## Immich
 [Immich](https://immich.app/) ist einfach Google Photos nur selber gehostet und damit privat und nicht KI Futter :)
