@@ -43,7 +43,7 @@ Tja und sobald ihr die richtige Anwendung habt werdet ihr nach der Serveradresse
 
 192.168.0.182:8095
 
-Danach werdet ihr nach Usernamen und Passwörtern gebeten. Ich hab für euch alle einen Account mit folgenden Credentials eingerichtet:
+Danach werdet ihr nach Usernamen und Passwörtern gefragt. Ich hab für euch alle einen Account mit folgenden Credentials eingerichtet:
 
 Username: Euer vorname (alles klein)
 
