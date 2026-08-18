@@ -36,11 +36,11 @@ Damit der Server euch die beste Video- und Audioqualität zur Verfügung stellen
 
 Jellyfin Media Player: https://github.com/jellyfin/jellyfin-desktop
 
-[Jellyfin Media Player:](https://github.com/jellyfin/jellyfin-desktop)
+[Jellyfin Media Player](https://github.com/jellyfin/jellyfin-desktop)
 
-Jellyfin Android: https://play.google.com/store/apps/details?id=org.jellyfin.mobile
+[Jellyfin Android](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 
-Jellyfin iOS: https://apps.apple.com/us/app/jellyfin-mobile/id1480192618
+[Jellyfin iOS](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618)
 
 Tja und sobald ihr die richtige Anwendung habt werdet ihr nach der Serveradresse gefragt. Denkt dran, dass ihr Tailscale im Hintergrund laufen lassen müsst, damit der Server gesehen wird. Die Adresse ist 
 
