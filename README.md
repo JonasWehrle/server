@@ -21,7 +21,7 @@ An sich klappt das mit jedem Gerät, gerade bei mobilen Geräten macht das auch 
 
 ## Troubleshooting
 
-Es kann gut sein, dass euer Router zuhause auch genau 192.168.0 als Präfix vergibt (z.B. wenn ihr auch Vodafone habt), dann müsst ihr stattdessen die IP-Adresse vom Router in unserem Tailscale VPN benutzen. Diese lautet 100.70.111.47.
+Es kann gut sein, dass euer Router zuhause auch genau 192.168.0 als Präfix vergibt (z.B. wenn ihr auch Vodafone habt), dann müsst ihr stattdessen die IP-Adresse vom Router in unserem Tailscale VPN benutzen. Diese lautet 100.70.111.47
 
 ## Services
 
