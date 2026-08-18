@@ -54,7 +54,7 @@ Das Passwort könnt ihr jederzeit ändern. Viel Spaß beim schauen!!✨✨
 
 ## Jellyfin Musik
 
-Hier könnt ihr eigentlich der Anleitung * [Jellyfin Filme](#jellyfin-filme) folgen. Unterwegs Musik 
+Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folgen. Unterwegs Musik 
 
 ## Obsidian
 
