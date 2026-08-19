@@ -61,13 +61,15 @@ Das Passwort könnt ihr jederzeit ändern. Viel Spaß beim schauen!!✨✨
 
 Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folgen. Ablauf und Accounts sind identisch. Zum aufm Handy Musik hören benutze ich persönlich aber [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player&referrer=utm_source%3Dwebsite%26utm_medium%3Dcta%26utm_campaign%3Dsite_home%26utm_content%3Dhero_primary), was es leider nur für Android gibt. Es gibt aber eine Million Alternativen. Ihr könnt hier nur Musik abspielen, die ich bereits auf dem Server habe. Aber natürlich könnt ihr sie auch aufs Handy runterladen für Offline use. Ist alles FLAC, also sehr hohe Qualität, dementsprechend glaub so 20GB ca. momentan. Falls ihr großes Interesse hättet Spotify und so actually nicht mehr zu benutzen, könnte man auch paar Sachen einrichten, dass ihr selber Musik hinzufügen könnt, aber bisher hat es mich nicht gestört mal auf der Musik die bisher da ist auszuruhen. Momentan ist das natürlich auch nur meine eigene Musik, eure Bibliotheken einzurichten ist aber möglich und euer Spotify rüberzukopieren in Theorie auch. Könnt mir einfach mal sagen falls ihr Interesse habt.
 
+Port: http://192.168.0.182:8096
+
 
 ## Obsidian
 [Obsidian](https://obsidian.md/) ist ein absolut tolles Notizen-Programm, was für mich momentan OneNote ersetzt. Hab damit z.B. das Netzwerk Schema im [Intro](#intro) gemacht. Damit man das auch schön über alle Geräte synchronisiert benötigt ihr das Plug-In "Self-hosted LiveSync". Das braucht etwas mehr Account setup als Jellyfin, weshalb ich das nicht für euch alle einfach mal so vorbereitet habe, aber dauert wirklich nur 5min und falls das jemand von euch gerne benutzen mag auch hier einfach sagen.
 
 ## Immich
 [Immich](https://immich.app/) ist einfach Google Photos nur selber gehostet und damit privat und nicht KI Futter :)
-Ne ehrlich, ist einfach gut zu Wissen man hat seinen Stuff bei sich selber. Das braucht auch einmal ne Account Einrichtung und dann könnt ihr das benutzen, einfach sagen wenn ihr das benutzen wollt. 
+Ne ehrlich, ist einfach gut zu Wissen man hat seinen Stuff bei sich selber. Das braucht auch einmal ne Account Einrichtung und dann könnt ihr das benutzen, schreibt gerne falls ihr Interesse habt. 
 
 Port: http://192.168.0.182:30041/
 
