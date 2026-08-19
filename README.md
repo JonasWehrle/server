@@ -76,6 +76,7 @@ Port: http://192.168.0.182:30041/
 
 ## Audiobookshelf
 [Audiobookshelf](https://audiobookshelf.org/) hab ich erst neulich eingerichtet, da sind bisher nur die ersten 4 Harry Potter teile drauf. Aber denke da werden noch einige Hörbücher und eBooks kommen und falls ihr da schon was habt gerne her damit :)
+Hier hab ich noch keine Accounts für euch gemacht, aber geht auch extrem schnell!
 
 [Android](https://play.google.com/store/apps/details?id=com.audiobookshelf.app&hl=en-US)
 
