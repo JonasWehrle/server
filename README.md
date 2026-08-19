@@ -82,3 +82,9 @@ Port: http://192.168.0.182:30041/
 Auf iOS scheint es als Alternative [FableFrog](https://apps.apple.com/us/app/fable-frog/id6760953386) zu geben.
 
 Port: http://192.168.0.182:30067/
+
+
+## Abschluss
+Der Server hat momentan einen redundanten 4TB Pool (Musik, Obsidian, Immich, Audiobookshelf) und zwei nicht redundante 3TB Pools (Filme).  Mehr Speicher und vor allem mehr Redundanz aufzubauen ist super wichtig damit einerseits mehr und außerdem nichts verloren geht. Am besten wären tatsächlich mehrere Server auf unsere Homes verteilt die die wichtigsten Sachen auf alle verteilt synchronisieren. Dann geht wirklich nichts verloren.
+
+Also falls ihr jemanden kennt der Festplatten mit mehreren Terabyte günstig abgeben würde oder Computer loswerden will (man kann aus allem einen Server machen), dann wärs mega wenn ihr mir das weiterleitet <3
