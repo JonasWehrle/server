@@ -45,6 +45,12 @@ Damit der Server euch die beste Video- und Audioqualität zur Verfügung stellen
 
 [Jellyfin iOS](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618)
 
+Hier sind noch schönere Clients fürs Handy:
+
+[Androidfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
+
+[Swiftfin - iOS](https://apps.apple.com/us/app/swiftfin/id1604098728)
+
 Tja und sobald ihr die richtige Anwendung habt werdet ihr nach der Serveradresse gefragt. Denkt dran, dass ihr Tailscale im Hintergrund laufen lassen müsst, damit der Server gesehen wird. Die Adresse ist 
 
 192.168.0.182:8095
