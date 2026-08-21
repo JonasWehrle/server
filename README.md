@@ -47,7 +47,7 @@ Damit der Server euch die beste Video- und Audioqualität zur Verfügung stellen
 
 Hier sind noch schönere Clients fürs Handy:
 
-[Androidfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
+[Androidfin](https://play.google.com/store/search?q=findroid&c=apps)
 
 [Swiftfin - iOS](https://apps.apple.com/us/app/swiftfin/id1604098728)
 
