@@ -86,39 +86,39 @@ Dann auf Desktop klicken und ihr werdet automatisch verbunden.
 
 In windows könnt ihr dann die Auflösung von eurem Laptop mit jeweiliger Bildwiederholrate einstellen. Dafür ist VDD installiert. Bitte nur auf die folgenden Sachen klicken:
 
-![](VDD)
+![](VDD.png)
 
 Oben auf Tools
 
-![](VDD_Tools)
+![](VDD_Tools.png)
 
 Im Dropdown XML auswählen. Mit "Ok" bestätigen.
 
-![](VDD_XML)
+![](VDD_XML.png)
 
 Oben auf Resolutions:
 
-![](VDD_Resolution_Add)
+![](VDD_Resolution_Add.png)
 
 Jetzt "Add Resolution"
 
-![](VDD_Add_Resolution)
+![](VDD_Add_Resolution.png)
 
 Eure Auflösung und Bildfrequenz eingeben
 
-![](VDD_Custom_Resolution)
+![](VDD_Custom_Resolution.png)
 
 Jetzt speichern
 
-![](VDD_Save_Changes)
+![](VDD_Save_Changes.png)
 
 und den Treiber neu starten
 
-![](VDD_Restart_Driver)
+![](VDD_Restart_Driver.png)
 
 Dann in windows auswählen. AUF KEINEN FALL DIE MONITORE IRGENDWIE ÄNDERN, AUßER BEI MONITOR 2 DIE AUFLÖSUNG UND FPS, danke :)
 
-![](Windows_Screen_Settings)
+![](Windows_Screen_Settings.png)
 Notfalls Moonlight nochmal neu starten aber jetzt sollte es 1:1 eure Auflösung sein und crisp aussehen :D
 
 ## Jellyfin Musik
