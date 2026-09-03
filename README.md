@@ -108,18 +108,25 @@ Eure Auflösung und Bildfrequenz eingeben
 
 ![](VDD_Resolution_Add.png)
 
-Jetzt speichern. GANZ WICHTIG NICHT INSTALL NUR RESTART. Dankeee ✨✨
+Jetzt speichern.
 
 ![](VDD_Save_Changes.png)
 
-und den Treiber neu starten
+und den Treiber neu starten. GANZ WICHTIG NICHT INSTALL NUR RESTART. Dankeee ✨✨
 
 ![](VDD_Restart_Driver.png)
 
 Dann in windows auswählen. AUF KEINEN FALL DIE MONITORE IRGENDWIE ÄNDERN, AUßER BEI MONITOR 2 DIE AUFLÖSUNG UND FPS, danke :)  ✨✨
 
 ![](Windows_Screen_Settings.png)
+
 Notfalls Moonlight nochmal neu starten aber jetzt sollte es 1:1 eure Auflösung sein und crisp aussehen :D
+
+Ein paar Regeln:
+
+1. Falls ihr keinen eigenen Steam Account habt könnt ihr gerne über mein Steam spielen, aber bitte kauft keine Spiele oder so. Benutzt den bitte sorgsam. 
+
+2. Nie Windows herunterfahren oder neu starten!
 
 ## Jellyfin Musik
 Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folgen. Ablauf und Accounts sind identisch. Zum aufm Handy Musik hören benutze ich persönlich aber [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player&referrer=utm_source%3Dwebsite%26utm_medium%3Dcta%26utm_campaign%3Dsite_home%26utm_content%3Dhero_primary), was es leider nur für Android gibt. Es gibt aber eine Million Alternativen. Ihr könnt hier nur Musik abspielen, die ich bereits auf dem Server habe. Aber natürlich könnt ihr sie auch aufs Handy runterladen für Offline use. Ist alles FLAC, also sehr hohe Qualität, dementsprechend glaub so 20GB ca. momentan. Falls ihr großes Interesse hättet Spotify und so actually nicht mehr zu benutzen, könnte man auch paar Sachen einrichten, dass ihr selber Musik hinzufügen könnt, aber bisher hat es mich nicht gestört mal auf der Musik die bisher da ist auszuruhen. Momentan ist das natürlich auch nur meine eigene Musik, eure Bibliotheken einzurichten ist aber möglich und euer Spotify rüberzukopieren in Theorie auch. Könnt mir einfach mal sagen falls ihr Interesse habt.
