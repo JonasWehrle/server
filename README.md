@@ -30,13 +30,13 @@ Es kann gut sein, dass euer Router zuhause auch genau 192.168.0 als Präfix verg
 Da ihr jetzt im Netzwerk seid, könnt ihr die folgenden Dienste alle nutzen:
 
 * [Jellyfin Filme](#jellyfin-filme)
+* [Gamestreaming](#Gamestreaming)
 * [Jellyfin Musik](#jellyfin-musik)
 * [Obsidian](#obsidian)
 * [Immich](#immich)
 * [Audiobookshelf](#audiobookshelf)
 
 ## Jellyfin Filme
-
 Damit der Server euch die beste Video- und Audioqualität zur Verfügung stellen kann, muss er genau wissen, was euer Gerät Decodieren kann, damit er Korrekt Encodiert. Anstatt Jellyfin einfach im Browser zu benutzen, was natürlich geht, würde ich euch deshalb die extra App dazu ans Herz legen. Da die meisten Browser sich keine Mühe geben gute Audiocodecs zu unterstützen, muss der Server euch das runterrechnen, was unnötig Leistung und Strom zieht. Am besten ladet ihr euch für Laptop/Desktop die "Jellyfin Media Player" Anwendung und für Handy/iPad die "Jellyfin" App runter. Dann können Server und Endgerät das optimale gemeinsame Format finden und in den meisten Filmen muss der Server dann nämlich gar nichts umrechnen.
 
 [Jellyfin Media Player](https://github.com/jellyfin/jellyfin-desktop)
@@ -65,8 +65,63 @@ Passwort: abcdefgh
 
 Das Passwort könnt ihr jederzeit ändern. Viel Spaß beim schauen!!✨✨
 
-## Jellyfin Musik
+## Gamestreaming
+Der Gameserver soll euch einen Gaming-PC ersetzen. Einerseits funkioniert das super auf Laptops, die selber zu schwach wären Spiele zu rendern, aber kann auch auf Handys und gehackten Nintendo-Switches oder einem SteamDeck, bzw. Lenovo Legion Go funktionieren (looking at you Simon :D).
+Auf dem Server läuft eine Windows VM, auf welcher [Sunshine](https://github.com/lizardbyte/sunshine) diese VM als Host bewirbt. Als Gegenstück dazu benötigt ihr jetzt auf eurem Gerät [Moonlight](https://moonlight-stream.org/). Darüber könnt ihr euch mit dem PC zum Zocken verbinden. Ihr müsst dafür in unserem Tailscale Netzwerk sein.
+Heruntergeladen klickt ihr in Moonlight auf das [+]
 
+![](Moonlight_Add_Device.png)
+
+In das Dialogfeld gebt ihr jetzt die IP Adresse der VM an:
+
+100.67.58.6
+
+Dann sollte der Desktop als verfügbares Gerät auftauchen. Bevor ihr euch verbindet würde ich ein paar Grundeinstellungen vornehmen. Stellt hier die Auflösung auf Nativ, wie wir die auch in Windows gleich einstellen kommt noch. Aber nur dann sieht das Bild auch wirklich crisp aus. Bildwiederholrate ebenfalls auf das was euer Gerät unterstützt, optional bei 60 Hz Laptop Bildschirmen kann man auch 120 FPS einstellen, dann sieht es vielleicht etwas smoother aus. Als Video Bitrate nicht mehr als so 40 MBps einstellen, das würde die Internetverbindung des Servers überlasten. Ansonsten auch am besten auf Vollbild stellen, hier schonmal vorab: um da wieder rauszukommen müsst ihr Strg+Alt+Shift+Q drücken. Genauso für das Leistungsoverlay Strg+Alt+Shift+S zum Ein-Ausschalten.
+
+![](Moonlight_Settings.png)
+
+Dann auf Desktop klicken und ihr werdet automatisch verbunden.
+
+![](Moonlight_Desktop.png)
+
+In windows könnt ihr dann die Auflösung von eurem Laptop mit jeweiliger Bildwiederholrate einstellen. Dafür ist VDD installiert. Bitte nur auf die folgenden Sachen klicken:
+
+![](VDD)
+
+Oben auf Tools
+
+![](VDD_Tools)
+
+Im Dropdown XML auswählen. Mit "Ok" bestätigen.
+
+![](VDD_XML)
+
+Oben auf Resolutions:
+
+![](VDD_Resolution_Add)
+
+Jetzt "Add Resolution"
+
+![](VDD_Add_Resolution)
+
+Eure Auflösung und Bildfrequenz eingeben
+
+![](VDD_Custom_Resolution)
+
+Jetzt speichern
+
+![](VDD_Save_Changes)
+
+und den Treiber neu starten
+
+![](VDD_Restart_Driver)
+
+Dann in windows auswählen. AUF KEINEN FALL DIE MONITORE IRGENDWIE ÄNDERN, AUßER BEI MONITOR 2 DIE AUFLÖSUNG UND FPS, danke :)
+
+![](Windows_Screen_Settings)
+Notfalls Moonlight nochmal neu starten aber jetzt sollte es 1:1 eure Auflösung sein und crisp aussehen :D
+
+## Jellyfin Musik
 Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folgen. Ablauf und Accounts sind identisch. Zum aufm Handy Musik hören benutze ich persönlich aber [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player&referrer=utm_source%3Dwebsite%26utm_medium%3Dcta%26utm_campaign%3Dsite_home%26utm_content%3Dhero_primary), was es leider nur für Android gibt. Es gibt aber eine Million Alternativen. Ihr könnt hier nur Musik abspielen, die ich bereits auf dem Server habe. Aber natürlich könnt ihr sie auch aufs Handy runterladen für Offline use. Ist alles FLAC, also sehr hohe Qualität, dementsprechend glaub so 20GB ca. momentan. Falls ihr großes Interesse hättet Spotify und so actually nicht mehr zu benutzen, könnte man auch paar Sachen einrichten, dass ihr selber Musik hinzufügen könnt, aber bisher hat es mich nicht gestört mal auf der Musik die bisher da ist auszuruhen. Momentan ist das natürlich auch nur meine eigene Musik, eure Bibliotheken einzurichten ist aber möglich und euer Spotify rüberzukopieren in Theorie auch. Könnt mir einfach mal sagen falls ihr Interesse habt.
 
 Port: http://192.168.0.182:8096
@@ -74,6 +129,7 @@ Port: http://192.168.0.182:8096
 
 ## Obsidian
 [Obsidian](https://obsidian.md/) ist ein absolut tolles Notizen-Programm, was für mich momentan OneNote ersetzt. Hab damit z.B. das Netzwerk Schema im [Intro](#intro) gemacht. Damit man das auch schön über alle Geräte synchronisiert benötigt ihr das Plug-In "Self-hosted LiveSync". Das braucht etwas mehr Account setup als Jellyfin, weshalb ich das nicht für euch alle einfach mal so vorbereitet habe, aber dauert wirklich nur 5min und falls das jemand von euch gerne benutzen mag auch hier einfach sagen.
+
 
 ## Immich
 [Immich](https://immich.app/) ist einfach Google Photos nur selber gehostet und damit privat und nicht KI Futter :)
