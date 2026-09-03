@@ -98,11 +98,11 @@ Im Dropdown XML auswählen. Mit "Ok" bestätigen.
 
 Oben auf Resolutions:
 
-![](VDD_Resolution_Add.png)
+![](VDD_Add_Resolution.png)
 
 Jetzt "Add Resolution"
 
-![](VDD_Add_Resolution.png)
+![](VDD_Resolution_Add.png)
 
 Eure Auflösung und Bildfrequenz eingeben
 
