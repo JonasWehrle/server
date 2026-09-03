@@ -87,8 +87,7 @@ Dann sollte der Desktop als verfügbares Gerät auftauchen. Bevor ihr euch verbi
 
 ![](Moonlight_Settings.png)
 
-Dann auf Desktop klicken und ihr werdet automatisch verbunden.
-
+Dann auf Desktop klicken, ihr braucht da einmalig eine Pin von mir, schreibt mir dann. Danach dann als environment nicht Steam sondern Desktop auswählen.
 ![](Moonlight_Desktop.png)
 
 In windows könnt ihr dann die Auflösung von eurem Laptop mit jeweiliger Bildwiederholrate einstellen. Dafür ist VDD installiert. Bitte nur auf die folgenden Sachen klicken:
