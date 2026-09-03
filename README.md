@@ -67,6 +67,13 @@ Das Passwort könnt ihr jederzeit ändern. Viel Spaß beim schauen!!✨✨
 
 ## Gamestreaming
 Der Gameserver soll euch einen Gaming-PC ersetzen. Einerseits funkioniert das super auf Laptops, die selber zu schwach wären Spiele zu rendern, aber kann auch auf Handys und gehackten Nintendo-Switches oder einem SteamDeck, bzw. Lenovo Legion Go funktionieren (looking at you Simon :D).
+
+Ein paar Regeln:
+
+1. Falls ihr keinen eigenen Steam Account habt könnt ihr gerne über mein Steam spielen, aber bitte kauft keine Spiele oder so. Benutzt den bitte sorgsam. 
+
+2. Nie Windows herunterfahren oder neu starten!
+
 Auf dem Server läuft eine Windows VM, auf welcher [Sunshine](https://github.com/lizardbyte/sunshine) diese VM als Host bewirbt. Als Gegenstück dazu benötigt ihr jetzt auf eurem Gerät [Moonlight](https://moonlight-stream.org/). Darüber könnt ihr euch mit dem PC zum Zocken verbinden. Ihr müsst dafür in unserem Tailscale Netzwerk sein.
 Heruntergeladen klickt ihr in Moonlight auf das [+]
 
@@ -122,11 +129,8 @@ Dann in windows auswählen. AUF KEINEN FALL DIE MONITORE IRGENDWIE ÄNDERN, AUß
 
 Notfalls Moonlight nochmal neu starten aber jetzt sollte es 1:1 eure Auflösung sein und crisp aussehen :D
 
-Ein paar Regeln:
+Viel Spaß beim zocken! 🎮🎮
 
-1. Falls ihr keinen eigenen Steam Account habt könnt ihr gerne über mein Steam spielen, aber bitte kauft keine Spiele oder so. Benutzt den bitte sorgsam. 
-
-2. Nie Windows herunterfahren oder neu starten!
 
 ## Jellyfin Musik
 Hier könnt ihr eigentlich der Anleitung [Jellyfin Filme](#jellyfin-filme) folgen. Ablauf und Accounts sind identisch. Zum aufm Handy Musik hören benutze ich persönlich aber [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player&referrer=utm_source%3Dwebsite%26utm_medium%3Dcta%26utm_campaign%3Dsite_home%26utm_content%3Dhero_primary), was es leider nur für Android gibt. Es gibt aber eine Million Alternativen. Ihr könnt hier nur Musik abspielen, die ich bereits auf dem Server habe. Aber natürlich könnt ihr sie auch aufs Handy runterladen für Offline use. Ist alles FLAC, also sehr hohe Qualität, dementsprechend glaub so 20GB ca. momentan. Falls ihr großes Interesse hättet Spotify und so actually nicht mehr zu benutzen, könnte man auch paar Sachen einrichten, dass ihr selber Musik hinzufügen könnt, aber bisher hat es mich nicht gestört mal auf der Musik die bisher da ist auszuruhen. Momentan ist das natürlich auch nur meine eigene Musik, eure Bibliotheken einzurichten ist aber möglich und euer Spotify rüberzukopieren in Theorie auch. Könnt mir einfach mal sagen falls ihr Interesse habt.
