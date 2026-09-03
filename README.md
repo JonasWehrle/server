@@ -100,15 +100,15 @@ Oben auf Resolutions:
 
 ![](VDD_Add_Resolution.png)
 
-Jetzt "Add Resolution"
-
-![](VDD_Resolution_Add.png)
-
-Eure Auflösung und Bildfrequenz eingeben
+Jetzt "Custom Resolution"
 
 ![](VDD_Custom_Resolution.png)
 
-Jetzt speichern
+Eure Auflösung und Bildfrequenz eingeben
+
+![](VDD_Resolution_Add.png)
+
+Jetzt speichern. GANZ WICHTIG NICHT INSTALL NUR RESTART. Dankeee ✨✨
 
 ![](VDD_Save_Changes.png)
 
@@ -116,7 +116,7 @@ und den Treiber neu starten
 
 ![](VDD_Restart_Driver.png)
 
-Dann in windows auswählen. AUF KEINEN FALL DIE MONITORE IRGENDWIE ÄNDERN, AUßER BEI MONITOR 2 DIE AUFLÖSUNG UND FPS, danke :)
+Dann in windows auswählen. AUF KEINEN FALL DIE MONITORE IRGENDWIE ÄNDERN, AUßER BEI MONITOR 2 DIE AUFLÖSUNG UND FPS, danke :)  ✨✨
 
 ![](Windows_Screen_Settings.png)
 Notfalls Moonlight nochmal neu starten aber jetzt sollte es 1:1 eure Auflösung sein und crisp aussehen :D
